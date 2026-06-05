@@ -1,5 +1,3 @@
-//mvn clean install
-//mvn spring-boot:run
 package ufide.proyecto;
 
 import org.springframework.boot.SpringApplication;
